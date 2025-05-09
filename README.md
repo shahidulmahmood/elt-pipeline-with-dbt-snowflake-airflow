@@ -47,13 +47,13 @@ modern-elt-pipeline/
 
 Follow these steps to set up and run the complete ELT pipeline:
 
-1. [Set up Snowflake environment](docs/tutorials/1-snowflake-setup.md)
-2. [Configure your dbt project](docs/tutorials/2-dbt-setup.md)
-3. [Create source and staging models](docs/tutorials/3-staging-models.md)
-4. [Implement dbt macros](docs/tutorials/4-dbt-macros.md)
-5. [Build transformation models](docs/tutorials/5-transformation-models.md)
-6. [Add data tests](docs/tutorials/6-testing.md)
-7. [Deploy with Airflow](docs/tutorials/7-airflow-deployment.md)
+1. [Set up Snowflake environment](docs/1-snowflake-setup.md)
+2. [Configure your dbt project](docs/2-dbt-setup.md)
+3. [Create source and staging models](docs/3-staging-models.md)
+4. [Implement dbt macros](docs/4-dbt-macros.md)
+5. [Build transformation models](docs/5-transformation-models.md)
+6. [Add data tests](docs/6-testing.md)
+7. [Deploy with Airflow](docs/7-airflow-deployment.md)
 
 ## Architecture Overview
 
