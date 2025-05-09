@@ -1,0 +1,9 @@
+FROM apache/airflow:2.7.1
+
+# Install dbt in a virtual environment
+RUN python -m venv dbt_venv && source dbt_venv/bin/activate && \
+    pip install --no-cache-dir dbt-snowflake && deactivate
+
+# Install required Airflow providers
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
