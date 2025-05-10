@@ -11,7 +11,7 @@ Apache Airflow is a platform to programmatically author, schedule, and monitor w
 3. Handle retries and failures gracefully
 4. Integrate with other data systems if needed
 
-We'll use [Astronomer Cosmos](https://github.com/astronomer/astronomer-cosmos), a package that makes it easy to integrate dbt with Airflow.
+We'll use Astronomer Cosmos, a package that makes it easy to integrate dbt with Airflow.
 
 ## Step 1: Set Up Airflow Environment
 
