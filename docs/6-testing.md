@@ -187,5 +187,3 @@ Next, we'll deploy our dbt pipeline with Apache Airflow for automated scheduling
 ## Resources
 
 - [dbt Testing Documentation](https://docs.getdbt.com/docs/building-a-dbt-project/tests)
-- [dbt Test Configurations](https://docs.getdbt.com/reference/resource-configs/tests)
-- [Data Quality Testing Best Practices](https://docs.getdbt.com/best-practices/data-quality-testing)
