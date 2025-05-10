@@ -67,6 +67,3 @@ This pipeline follows modern ELT practices:
 
 Airflow orchestrates the entire process on a schedule, ensuring reliable data pipeline execution.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
