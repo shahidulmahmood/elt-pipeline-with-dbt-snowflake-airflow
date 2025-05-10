@@ -7,7 +7,7 @@ Now that our Snowflake environment is ready, let's set up our dbt project to sta
 First, install dbt with the Snowflake adapter:
 
 ```bash
-pip install dbt-snowflake
+pip3 install dbt-snowflake
 ```
 
 ## Step 2: Initialize a dbt Project
