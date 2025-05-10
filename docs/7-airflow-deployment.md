@@ -274,4 +274,3 @@ This completes our end-to-end ELT pipeline with dbt, Snowflake, and Airflow.
 
 - [Astronomer Cosmos Documentation](https://astronomer.github.io/astronomer-cosmos/)
 - [Apache Airflow Documentation](https://airflow.apache.org/docs/)
-- [dbt and Airflow Integration Patterns](https://docs.getdbt.com/docs/deploy/airflow)
