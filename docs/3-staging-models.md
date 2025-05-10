@@ -148,5 +148,4 @@ Next, we'll create reusable dbt macros to avoid duplicating SQL logic.
 ## Resources
 
 - [dbt Sources Documentation](https://docs.getdbt.com/docs/building-a-dbt-project/using-sources)
-- [dbt Staging Patterns](https://docs.getdbt.com/best-practices/how-we-structure/1-staging)
 - [dbt Testing](https://docs.getdbt.com/docs/building-a-dbt-project/tests)
