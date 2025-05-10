@@ -57,8 +57,6 @@ Follow these steps to set up and run the complete ELT pipeline:
 
 ## Architecture Overview
 
-![ELT Pipeline Architecture](docs/images/elt-architecture.png)
-
 This pipeline follows modern ELT practices:
 1. **Extract** - Data is extracted from source systems (using Snowflake sample data in this example)
 2. **Load** - Data is loaded into Snowflake (already done in this example with sample data)
