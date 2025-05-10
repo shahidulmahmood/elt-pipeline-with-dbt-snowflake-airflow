@@ -136,5 +136,4 @@ Next, we'll create transformation models that use our staging models and macros 
 ## Resources
 
 - [dbt Macros Documentation](https://docs.getdbt.com/docs/building-a-dbt-project/jinja-macros)
-- [dbt-utils Macros](https://github.com/dbt-labs/dbt-utils/tree/main/macros)
 - [Jinja Template Documentation](https://jinja.palletsprojects.com/en/3.0.x/templates/)
