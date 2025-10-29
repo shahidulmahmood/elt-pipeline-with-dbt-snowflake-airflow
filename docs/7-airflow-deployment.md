@@ -49,7 +49,11 @@ apache-airflow-providers-snowflake
 
 ## Step 4: Create a docker-compose.yml File
 
-Create a file called `docker-compose.yml`:
+Create a file called `docker-compose.yml`: This file sets up 3 services that work together:
+
+Postgres - Database for Airflow's metadata
+Scheduler - Runs your pipelines on schedule
+Webserver - UI to monitor everything
 
 ```yaml
 version: '3'
