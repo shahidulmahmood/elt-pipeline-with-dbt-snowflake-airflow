@@ -55,7 +55,7 @@ Replace the placeholders with your actual Snowflake credentials:
 
 ## Step 4: Configure dbt Project
 
-Edit the `dbt_project.yml` file in your project root directory:
+Edit the `dbt_project.yml` file in your project root directory: This is the control center.
 
 ```yaml
 name: 'snowflake_workshop'
