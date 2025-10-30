@@ -158,7 +158,7 @@ dbt_snowflake_dag = DbtDag(
     # DAG configs
     dag_id="dbt_snowflake_pipeline",
     schedule_interval="@daily",
-    start_date=datetime(2023, 9, 10),
+    start_date=datetime(2024, 9, 10),
     catchup=False,
     
     # dbt configs
